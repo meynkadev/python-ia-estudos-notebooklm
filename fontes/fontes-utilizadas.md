@@ -1,16 +1,21 @@
-# Fontes Utilizadas
+## Referências de Python
 
-## DIO
-- Plataforma de ensino utilizada durante o desafio.
+- https://docs.python.org/3/
+- https://realpython.com/
 
-## Python Official Documentation
-https://docs.python.org/3/
+## Referências sobre IA
 
-## NotebookLM
-https://notebooklm.google/
+- https://openai.com/
+- https://ai.google/
+- https://chatgpt.com/
+- https://notebooklm.google/
 
-## Artigos e materiais sobre IA
-https://openai.com/
+## Referências sobre Dados
 
-## Real Python  
-https://realpython.com/
+- https://www.kaggle.com/
+- https://towardsdatascience.com/
+
+## Plataforma de Estudos
+
+- https://www.dio.me/
+- https://skillsbuild.org/
