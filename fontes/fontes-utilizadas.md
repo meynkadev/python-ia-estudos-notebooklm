@@ -10,4 +10,7 @@ https://docs.python.org/3/
 https://notebooklm.google/
 
 ## Artigos e materiais sobre IA
-- Conteúdos relacionados à utilização de IA nos estudos e produtividade.
+https://openai.com/
+
+## Real Python  
+https://realpython.com/
