@@ -49,6 +49,17 @@ Também foram desenvolvidas habilidades de documentação, estruturação de est
 
 ---
 
+## Habilidades Desenvolvidas
+
+- Organização de conhecimento técnico
+- Curadoria de informações
+- Estruturação de estudos
+- Utilização estratégica de IA
+- Documentação técnica
+- Pensamento analítico
+
+---
+
 ## Próximos Passos
 
 - Aprender Pandas e NumPy
